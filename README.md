@@ -48,15 +48,6 @@
  ### Lista Ordenada
  qualquer número seguido de ponto(.) Sub-itens definidos com 3 espaços vazios. 
 
-   número.item1
-
-   número.item2
-
-      número.subitem2.1
-      numero.subitem2.2
-
-   número.item3
-
 #### Exemplo:
 1. item 1;
 1. item 2;
@@ -68,7 +59,6 @@
 *palavra ou - palavra(Com 3 espaços vazio vira subitem)
 
 #### Exemplo:
-
 * item1;
 * item2;
    * subitem2.1;
@@ -93,7 +83,7 @@
 ### Tabelas
 Dado | Dado | Dado   separa as colunas
 ---|---|---          separa o cabeçalho
-Enter -              separa as linhas
+Enter                separa as linhas
 
 #### Exemplo
 Curso | Feito? | Carga Horária
