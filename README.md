@@ -1,10 +1,10 @@
 # Git_e_GitHub
- Repositório - Curso Git e GitHub - Curso em Vídeo
+ ## Repositório - Curso Git e GitHub - Curso em Vídeo
 
  Linguagem MarkDown - Utilizada no Git/GitHub como linguagem de marcação. Pode ser aplicada às issues e no arquivo readme.
 
 
- Guia de Markdown
+ ## Guia de Markdown
 
  _*Os comandos podem ser aplicados juntos num mesmo trecho_
 
@@ -19,6 +19,22 @@
  Negrito - ** palavra ** ou __ palavra __ (asterisco duplo ou underline duplo)
 
  Itálico - * palavra * ou _ palavra _ (asterisco único ou underline único)
- 
+
  Tachado - ~~ palavra ~~ (til duplo)
+
+ Lista Ordenada
+
+   número.item1
+
+   número.item2
+
+      número.subitem2.1
+      numero.subitem2.2
+
+   número.item3
+
+Exemplo:
+1. item 1;
+1. item 2;
+1. item 3.
 
