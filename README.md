@@ -6,4 +6,4 @@
 
  Guia de Markdown
  
- Negrito - ** palavra **
+ Negrito - **palavra**
