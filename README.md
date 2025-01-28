@@ -27,6 +27,24 @@
  ### Tachado
  ~~ palavra ~~ (til duplo)
 
+ ### Comando
+ crase única
+
+ #### Exemplo
+ `print(f"Variável x com valor {x} !")`
+
+ ### Trecho de Código com Identação
+ (crase tripla)
+
+ #### Exemplo
+ ```
+ num = int(input("Digite um número: "))
+ if num%2==0:
+     print('Par!')
+ else:
+     print('Ímpar!')
+ ```
+
  ### Lista Ordenada
  qualquer número seguido de ponto(.) Sub-itens definidos com 3 espaços vazios. 
 
@@ -74,12 +92,17 @@
 
 ### Tabelas
 Dado | Dado | Dado   separa as colunas
----|---|---          separa as linhas
+---|---|---          separa o cabeçalho
+Enter -              separa as linhas
 
 #### Exemplo
 Curso | Feito? | Carga Horária
 --- | --- | ---
 Python - Mundo 1 | SIM | 40H
 JavaScript | SIM | 40H 
+
+
+### Emojis :eyes:
+: nome_emoji :  Consultar o nome dos emojis em [ikatyang](github.com/ikatyang/emoji-cheat-sheet)
 
 
