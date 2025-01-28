@@ -28,7 +28,7 @@
  ~~ palavra ~~ (til duplo)
 
  ### Lista Ordenada
- qualquer número seguido de ponto(.). Sub-itens definidos com 3 espaços vazios. 
+ qualquer número seguido de ponto(.) Sub-itens definidos com 3 espaços vazios. 
 
    número.item1
 
@@ -42,8 +42,8 @@
 #### Exemplo:
 1. item 1;
 1. item 2;
-   1.subitem 2.1
-   1.subitem 2.2
+   1. subitem 2.1
+   1. subitem 2.2
 1. item 3.
 
 ### Lista Sem Ordenação
@@ -53,8 +53,8 @@
 
 * item1;
 * item2;
-   *subitem2.1;
-   *subitem2.2;
+   * subitem2.1;
+   * subitem2.2;
 * item3.
 
 ### Lista de Tarefas
@@ -64,8 +64,8 @@
 
 - [x] Curso Python - Mundo 1
 - [x] Curso Python - Mundo 2
-- [] Curso Python - Mundo 3
-- [] HTML/CSS - Módulo 1
+- [ ] Curso Python - Mundo 3
+- [ ] HTML/CSS - Módulo 1
 
 ### Links
 [ Texto ] ( link )
@@ -80,7 +80,6 @@ Dado | Dado | Dado   separa as colunas
 Curso | Feito? | Carga Horária
 --- | --- | ---
 Python - Mundo 1 | SIM | 40H
---- | --- | ---
 JavaScript | SIM | 40H 
 
 
