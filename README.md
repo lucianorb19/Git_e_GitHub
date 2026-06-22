@@ -97,7 +97,7 @@ JavaScript | SIM | 40H
 
 
 ### Imagens
-Símbolo exclamação + [] + (caminhoImagem)
+Símbolo exclamação + [ ] + (caminhoImagem)
 
 #### Exemplo
 ![ ](foto_perfilPequena.png)
@@ -105,14 +105,14 @@ Símbolo exclamação + [] + (caminhoImagem)
 
 ### Criação de *aliases*
 
-Criar variáveis que vão assumir os valores para links e caminhos de arquivos, visando organizar melhor o texto do markdown. Isso pode ser feito criando ao final do projeto:
+Criar variáveis que vão assumir os valores para links e caminhos de arquivos, visando organizar melhor o texto do markdown. Isso pode ser feito criando os aliases ao final do projeto (sem a ->):
 
 -> [ chave ]: valor
 
-Aplicando no texto, no local do link / caminho do arquivo, a chave.
+E aplicando no texto, no local do link / caminho do arquivo, a chave.
 
 #### Exemplo
-Link tradicional: [ikatyang](github.com/ikatyang/emoji-cheat-sheet)
+Link tradicional: [ikatyang](github.com/ikatyang/emoji-cheat-sheet)  
 Link com aliases: [ikatyang][link-github-emojis]
 
 
