@@ -97,7 +97,7 @@ JavaScript | SIM | 40H
 
 
 ### Imagens
-![](caminhoImagem)
+Símbolo exclamação + [] + (caminhoImagem)
 
 #### Exemplo
 ![](foto_perfilPequena.png)
