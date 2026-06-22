@@ -115,8 +115,15 @@ E aplicando no texto, no local do link / caminho do arquivo, a chave.
 Link tradicional: [ikatyang](github.com/ikatyang/emoji-cheat-sheet)  
 Link com aliases: [ikatyang][link-github-emojis]
 
-
-
 <!-- ALIASES -->
 [link-github-emojis]: github.com/ikatyang/emoji-cheat-sheet
 
+### Badges
+Criação de seus links em (shields.io)[https://shields.io/badges] ou copiar de (simple badges)[https://badges.pages.dev/]
+1. Preencher o campo label com o texto: conteúdo-cor de fundo (Luciano-black, por exemplo);
+2. Copiar a URL gerada pelo site; 
+
+Utilização no texto: Símbolo exclamação + [ ] + (url do badge)
+
+#### Exemplo
+![](https://img.shields.io/badge/Luciano-black)
