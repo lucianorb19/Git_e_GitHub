@@ -96,3 +96,9 @@ JavaScript | SIM | 40H
 : nome_emoji :  Consultar o nome dos emojis em [ikatyang](github.com/ikatyang/emoji-cheat-sheet)
 
 
+### Imagens
+![](caminhoImagem)
+
+#### Exemplo
+![](foto_perfilPequena.png)
+
