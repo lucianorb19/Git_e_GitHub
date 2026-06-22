@@ -100,5 +100,5 @@ JavaScript | SIM | 40H
 Símbolo exclamação + [] + (caminhoImagem)
 
 #### Exemplo
-![](foto_perfilPequena.png)
+![ ](foto_perfilPequena.png)
 
